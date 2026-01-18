@@ -5,8 +5,11 @@ Pedagogická fakulta
 Katedra pedagogiky a špeciálnej pedagogiky
 
 **Projekt z predmetu:** Internet vecí
+
 **Autor: **Mgr. Júlia Bušová
+
 **Študijný program:** RŠ informatiky
+
 **Miesto a rok: Ružomberok, 2026
 
 ---
